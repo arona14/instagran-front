@@ -1,0 +1,11 @@
+.DS_Store
+.vscode/
+.idea/
+.iml
+.vs/
+dist/
+node_modules/
+node_modules.old/
+package-lock.json
+yarn-error.log
+material-cosmo.iml
