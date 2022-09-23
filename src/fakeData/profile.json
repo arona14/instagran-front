@@ -1,0 +1,20 @@
+{
+  "username": "arona",
+  "bio": "python developer",
+  "logo": "https://instagram-arona-back.herokuapp.com/media/1609775277392_YOt4P4f.jpeg",
+  "photos": [
+    {
+      "image": "https://instagram-arona-back.herokuapp.com/media/kharagne.jpeg"
+    },
+    {
+      "image": "https://instagram-arona-back.herokuapp.com/media/modou.jpeg"
+    },
+    {
+      "image": "https://instagram-arona-back.herokuapp.com/media/1609775277392_w5iTPew.jpeg"
+    },
+    {
+      "image": "https://instagram-arona-back.herokuapp.com/media/cheval_ftFShcP.jpeg"
+    }
+  ],
+  "num_photos": 4
+}

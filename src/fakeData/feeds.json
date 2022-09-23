@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "image": "https://instagram-arona-back.herokuapp.com/media/kharagne.jpeg",
+    "profile": {
+      "id": 1,
+      "bio": "python developer",
+      "user": {
+        "username": "arona"
+      }
+    },
+    "tags": [
+      "tag"
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://instagram-arona-back.herokuapp.com/media/modou.jpeg",
+    "profile": {
+      "id": 1,
+      "bio": "python developer",
+      "user": {
+        "username": "arona"
+      }
+    },
+    "tags": [
+      "tag1"
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://instagram-arona-back.herokuapp.com/media/cheval_ACYfW5R.jpeg",
+    "profile": {
+      "id": 2,
+      "bio": "Baye Fall",
+      "user": {
+        "username": "elhadje"
+      }
+    },
+    "tags": [
+      "tg3"
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://instagram-arona-back.herokuapp.com/media/1609775277392_w5iTPew.jpeg",
+    "profile": {
+      "id": 1,
+      "bio": "python developer",
+      "user": {
+        "username": "arona"
+      }
+    },
+    "tags": [
+      "tag"
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://instagram-arona-back.herokuapp.com/media/cheval_ftFShcP.jpeg",
+    "profile": {
+      "id": 1,
+      "bio": "python developer",
+      "user": {
+        "username": "arona"
+      }
+    },
+    "tags": [
+      "tag",
+      "tag3"
+    ]
+  }
+]
